@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 200,
+      "img": "https://picsum.photos/200/200"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 200,
+      "img": "https://picsum.photos/200/200"
+    },
+    {
+      "name": "Sản phẩm C",
+      "price": 400,
+      "img": "https://picsum.photos/200/200",
+      "id": 4
+    },
+    {
+      "name": "San pham D",
+      "price": 700,
+      "img": "https://picsum.photos/200/200",
+      "id": 5
+    },
+    {
+      "name": "San pham E",
+      "price": 555,
+      "img": "https://picsum.photos/200/200",
+      "id": 7
+    },
+    {
+      "name": "Product A",
+      "price": 100,
+      "img": "https://picsum.photos/200/200",
+      "id": 8
+    },
+    {
+      "name": "Product F",
+      "price": 500,
+      "img": "anh",
+      "id": 9
+    }
+  ]
+}
